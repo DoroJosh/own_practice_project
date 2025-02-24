@@ -1,2 +1,2 @@
 # own_practice_project
-Concepts of Data science practice repo
+This repository is dedicated to practicing version control using Git. It contains exercises, notes, and sample projects aimed at improving my understanding of Git commands, workflows, and best practices
